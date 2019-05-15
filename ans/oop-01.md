@@ -2,29 +2,29 @@
 ```java
 public class Calculator {
 
-	String maker;
+    String maker;
 
-	Calculator(String maker) {
-		this.maker = maker;
-	}
+    Calculator(String maker) {
+        this.maker = maker;
+    }
 
-	int add(int num1, int num2) {
-		return num1 + num2;
-	}
+    int add(int num1, int num2) {
+        return num1 + num2;
+    }
 }
 ```
 
-#### Calculator.java
+#### OopMain1.java
 ```java
 public class OopMain1 {
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		Calculator calc = new Calculator("CASSIO");
-		System.out.println(calc.maker + "の電卓を買いました。");
+        Calculator calc = new Calculator("CASSIO");
+        System.out.println(calc.maker + "の電卓を買いました。");
 
-		int result = calc.add(10, 5);
-		System.out.println("10 + 5 = " + result);
+        int result = calc.add(10, 5);
+        System.out.println("10 + 5 = " + result);
 
-	}
+    }
 }
 ```
