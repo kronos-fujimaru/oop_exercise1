@@ -26,7 +26,7 @@ public class Calculator {
 }
 ```
 
-#### OopMain1.java
+#### Computer.java
 ```java
 public class Computer extends Calculator {
     Computer(String maker) {
