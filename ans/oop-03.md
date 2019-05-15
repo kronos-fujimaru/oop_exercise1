@@ -28,7 +28,7 @@ public class Calculator {
 
 #### OopMain1.java
 ```java
-ppublic class OopMain1 {
+public class OopMain1 {
     public static void main(String[] args) {
 
         Calculator calc = new Calculator("CASSIO");
