@@ -50,7 +50,7 @@ public class Computer extends Calculator {
     void showSpec() {
         System.out.println("メーカー：" + maker);
         System.out.println("OS：" + os);
-        System.out.println("ストレージサイズ：" + storageSize);
+        System.out.println("ストレージサイズ：" + storageSize + "GB");
     }
 }
 ```
@@ -71,7 +71,7 @@ public class SmartPhone extends Computer {
     void showSpec() {
         System.out.println("メーカー：" + maker);
         System.out.println("OS：" + os);
-        System.out.println("ストレージサイズ：" + storageSize);
+        System.out.println("ストレージサイズ：" + storageSize + "GB");
         System.out.println("電話番号：" + phoneNum);
     }
 
