@@ -423,10 +423,10 @@ OS：Android
 ②Computerクラスのインスタンスを生成する。（引数３つ）<br>
 ③SmartPhoneクラスのインスタンスを生成し、Computer型の変数に代入する。<br>
 ④Tabletクラスのインスタンスを生成し、Computer型の変数に代入する。<br>
-⑤ApplianceShopクラスの開店メソッドを実行する。
-⑥ApplianceShopクラスの買取メソッドを実行する。（引数：Computerクラス）
-⑦ApplianceShopクラスの買取メソッドを実行する。（引数：SmartPhoneクラス）
-⑧ApplianceShopクラスの買取メソッドを実行する。（引数：Tabletクラス）
+⑤ApplianceShopクラスの開店メソッドを実行する。<br>
+⑥ApplianceShopクラスの買取メソッドを実行する。（引数：Computerクラス）<br>
+⑦ApplianceShopクラスの買取メソッドを実行する。（引数：SmartPhoneクラス）<br>
+⑧ApplianceShopクラスの買取メソッドを実行する。（引数：Tabletクラス）<br>
 ⑨ApplianceShopクラスの閉店メソッドを実行する。
 
 <br>
